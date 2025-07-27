@@ -35,9 +35,22 @@
 - XML: Extensible Markup Language
 
 ## Other Apps
-- Microservice
-  - [Microservices with Golang](https://github.com/HidayatRivai2020/Golang_Microservice)
-- Programming
-  - [Programming](https://github.com/HidayatRivai2020/Programming)
-- REST API
-  - [Rest API](https://github.com/HidayatRivai2020/Rest_API)
+- BPM
+  - [Camunda 7](https://github.com/HidayatRivai2020/camunda-7)
+  - [Java with Camunda 7](https://github.com/HidayatRivai2020/java-with-camunda-7)
+- Data
+  - [Data Structure](https://github.com/HidayatRivai2020/struktur_data)
+- Machine Learning
+  - [K-means](https://github.com/HidayatRivai2020/Kmeans)
+- [Programming](https://github.com/HidayatRivai2020/Programming)
+  - [Golang](https://github.com/HidayatRivai2020/Golang)
+    - [Microservices with Golang](https://github.com/HidayatRivai2020/Golang_Microservice)
+  - [Kotlin](https://github.com/HidayatRivai2020/kotlin)
+    - [Kotlin For Android](https://github.com/HidayatRivai2020/Kotlin_for_Android)
+    - [Kotlin Android Exercise](https://github.com/HidayatRivai2020/kotlin_android_exercise)
+  - [Python](https://github.com/HidayatRivai2020/Python)
+    - [Django](https://github.com/HidayatRivai2020/Django)
+- [REST API](https://github.com/HidayatRivai2020/Rest_API)
+- UI-UX
+  - [CSS](https://github.com/HidayatRivai2020/CSS)
+  - [HTML](https://github.com/HidayatRivai2020/HTML)
