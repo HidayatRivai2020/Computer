@@ -1,6 +1,9 @@
 # Computer
+- Timeline
 - Application Architecture
 - Architectural Style
+- Glossarium
+- Other Application
 
 ## Application Architecture
 - Composite Architecture 
