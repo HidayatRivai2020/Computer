@@ -1,38 +1,34 @@
 # Computer
-- Timeline
-- Glossarium
-- Other Apps
+- general-purpose electronic device that processes data into information; includes hardware and software.
+- purpose : data → information
+- fuction : 
+  - input: data or signals received by a computer from users, sensors, networks, or other systems for processing.
+  - process: the computation or transformation the computer performs on input data to produce meaningful information.
+  - output: the results produced by a computer (display, file, network message, actuator command) presented to users or other systems.
+  - storage: hardware or services used to retain data and information temporarily (memory) or persistently (disk, SSD, databases).
 
-## Timeline
-- 1950s:
-  - Computer were size of the room.
-  - The need to reuse code was recognized
-  - the term library was introduced
-- 1970s:
-  - The term API emerges
-- 1980s:
-  - The term RPC appears
-- 1998:
-  - XML-RPC was introduced
-- 1999:
-  - SOAP protocol was introduced
-- 2000:
-  - Rest was announced
-- 2015:
-  - GraphQL was introduced
- 
-## Glossarium
-- API: a way for programs to run independently of the hardware by defining an interface between the application and the system.
-- GraphQL: an alternative to REST introduced by Facebook.
-- Library: collection of reusable programs that can be used in other program.
-- Rest: a way to design APIs to be thecnically correct in a architecture style
-- RPC: Remote Procedure call
-  - Remote: not in this computer locally, typically over a network at somewhere else
-  - Procedure: part of a program, a function of a program
-  - Call: invoke or ask for something
-  - RPC: invoke procedure remotely
-- SOAP: Simple Object Access Protocol, uses XML to send and retrieve messages
-- XML: Extensible Markup Language
+## Types
+- desktop: personal computer designed for regular use at a single location, offering expandability and higher performance.
+- laptop: portable personal computer with integrated display, keyboard, and battery; suitable for mobile work.
+- mobile phone: handheld device primarily for voice and data communication; modern smartphones provide full computing capabilities.
+- tablet: portable touchscreen device larger than a phone and smaller than a laptop; optimized for media consumption and light productivity.
+- server: computer that provides services or resources to other computers over a network; optimized for reliability and concurrent access.
+- main frame: large, powerful computer used by organizations for bulk data processing, transaction processing, and supporting many simultaneous users.
+- super computer: extremely high-performance machine designed for complex scientific and engineering calculations, simulations, and large-scale computations.
+
+## List of Content
+- Timeline
+- Hardware
+  - Input
+  - Processing
+  - Output
+  - Storate
+- Software
+  - System
+  - Apps
+- How it works
+- Architecture
+- Glossarium
 
 ## Other Apps
 - BPM

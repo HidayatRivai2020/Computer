@@ -1,0 +1,72 @@
+# Timeline
+- 1950s:
+  - Computer were size of the room.
+  - The need to reuse code was recognized
+  - the term library was introduced
+- 1970s:
+  - The term API emerges
+- 1980s:
+  - The term RPC appears
+- 1998:
+  - XML-RPC was introduced
+- 1999:
+  - SOAP protocol was introduced
+- 2000:
+  - Rest was announced
+- 2015:
+  - GraphQL was introduced
+
+## Era
+
+### AGE OF INFORMATION (Search Engines)
+- This age focuses on finding information, mainly through search engines.
+- Information
+    - Emphasis is on data and facts
+    - Users look for answers rather than meaning
+- Mechanistic
+    - Interaction feels machine-like
+    - Fixed inputs → fixed outputs
+- Single Interaction
+    - One question → one result
+    - No ongoing conversation
+- We Synthesize
+    - Humans must combine and interpret information themselves
+    - We Conform to Computers
+- Users adapt to keywords, syntax, and rules
+    - Example: learning how to “Google properly”
+- Content Created by Humans
+    - Articles, blogs, websites written by people
+    - Computers mainly retrieve, not create
+- Knowing, Memorizing Facts
+    - Value placed on remembering information
+    - Learning = storing facts in memory
+- DISSOCIATIVE
+    - Technology feels separate from human thinking
+    - Tools are used, not collaborated with
+
+### AGE OF UNDERSTANDING (Artificial Intelligence)
+- This age focuses on comprehension, reasoning, and application.
+- Understanding
+    - Emphasis on meaning, context, and insight
+    - Not just answers, but explanations
+- Humanistic
+    - Interaction feels natural and human-centered
+    - Language-based, intuitive
+- Conversational
+    - Ongoing dialogue
+    - Follow-up questions and refinement
+- AI Synthesizes
+    - AI combines, summarizes, and explains information
+    - Reduces cognitive overload for humans
+- Computers Conform to Us
+    - Systems adapt to human language and intent
+    - No need for strict commands or keywords
+- Content Created by Machines
+    - AI generates text, images, code, and ideas
+    - Machines become creative collaborators
+- Applying, Accessing, and Using Facts
+    - Focus on how to use knowledge
+    - Learning = problem-solving and decision-making
+- RELATIONAL
+    - Technology becomes a partner
+    - Continuous interaction and cooperation

@@ -1,0 +1,16 @@
+Glossarium
+- API: Application Programming Interface; a way for programs to run independently of the hardware by defining an interface between the application and the system.
+- GraphQL: an alternative to REST introduced by Facebook.
+- I / O: input/output; mechanisms and interfaces for exchanging data between a computer and external devices or systems.
+- Library: collection of reusable programs that can be used in other program.
+- Rest: a way to design APIs to be thecnically correct in a architecture style
+- RPC: Remote Procedure call
+  - Remote: not in this computer locally, typically over a network at somewhere else
+  - Procedure: part of a program, a function of a program
+  - Call: invoke or ask for something
+  - RPC: invoke procedure remotely
+- SOAP: Simple Object Access Protocol, uses XML to send and retrieve messages
+- System: integrated set of hardware and software that works together to perform computing tasks.
+- Update: a change or improvement made to a system, software, or data to fix problems, add features, or improve performance and security.
+- Utilities: helper programs that perform maintenance or support functions (backup, disk tools, monitoring).
+- XML: Extensible Markup Language

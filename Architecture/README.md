@@ -1,10 +1,7 @@
-# Computer
-- Application Architecture
-- Architectural Style
+# Architecture
 
 ## Application Architecture
 - Composite Architecture 
-- Distributed Application
 - Evolving Architecture 
 - Hybrid Architecture 
 - Modular Architecture
@@ -20,8 +17,6 @@
 - Component-Based Architecture 
 - Event-Driven Architecture (EDA)
 - Layered Architecture 
-- Microservices Architecture 
-- Monolithic Architecture 
 - N-Tier Architecture 
 - Peer-to-Peer (P2P) Architecture 
 - Service-Oriented Architecture (SOA)
@@ -38,6 +33,3 @@
 - Only need to change one individual microservice if there is an update
 - Services communicate with each other through APIs, JSON/REST, gRPC, and over a messaging queue
 - Easier to scale and maintain, but harder to write
-
-## Other Apps
-- [Microservices with Golang](https://github.com/HidayatRivai2020/Golang_Microservice)
