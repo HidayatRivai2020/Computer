@@ -21,15 +21,8 @@
 - Peer-to-Peer (P2P) Architecture 
 - Service-Oriented Architecture (SOA)
 - Space-Based Architecture
+- [Microservice Architecture](https://github.com/HidayatRivai2020/microservice/)
 
 ### Monolithic Application
 - Everything is built into a single application.
 - Everything exists in one code base and compiles to one binary
-
-### Microservice Architecture
-- Architectural style that structures an application as a collection of services that are Independently deployable and Loosely coupled
-- Application is divided into smaller, independent services, each responsible for a specific function
-- Breaking monolith up from functions/packages to completely separate programs
-- Only need to change one individual microservice if there is an update
-- Services communicate with each other through APIs, JSON/REST, gRPC, and over a messaging queue
-- Easier to scale and maintain, but harder to write
